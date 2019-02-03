@@ -238,7 +238,7 @@
 		#define PROBE_MASK        1 // don't change		
 		
 		#define CONTROL_MASK      				B1111  	// don't change
-		#define INVERT_CONTROL_PIN_MASK   B1110		// don't change
+		
 		
 		// =======================================================================
 		
